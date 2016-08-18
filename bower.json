@@ -1,0 +1,17 @@
+{
+    "name": "headlandone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Gary Lonergan"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/headlandone-bower.git"
+    },
+    "description": "Headland One font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
